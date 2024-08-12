@@ -24,7 +24,6 @@ Clone the Repository <p></p>
 <div class="codehilite">
 <pre><code> 
     git clone https://github.com/ayethandar07/TestPushNoti-using-Firebase-Server.git <br>
-    cd your-project
 </code></pre>
 </div>
 
