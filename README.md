@@ -43,4 +43,5 @@ Configure Firebase
 </ul>
 
 <h4>Contact</h4>
-For questions or feedback, please contact athandar1998@gmail.com.
+<p>For questions or feedback, please contact <a href="mailto:athandar1998@gmail.com">athandar1998@gmail.com</a>.</p>
+
